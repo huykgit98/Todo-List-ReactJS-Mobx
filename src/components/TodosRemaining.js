@@ -25,6 +25,7 @@ const TodoRemaining = (props) => {
 
 TodoRemaining.propTypes = {
     remaining: PropTypes.number.isRequired,
+    
  }
 
 export default TodoRemaining;
